@@ -1,0 +1,9 @@
+{
+  "name": "makraz/admin-pack",
+  "type": "admin-pack",
+  "license": "MIT",
+  "description": "A Admin pack for Symfony projects",
+  "require": {
+    "easycorp/easyadmin-bundle": "^4.20"
+  }
+}
